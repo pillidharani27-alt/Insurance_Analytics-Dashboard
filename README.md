@@ -1,4 +1,5 @@
-# Power-BI-Dashboard - # Excel Dashboard
+#📊 Branch Dashboard – Insurance Analytics (Power BI & Excel)
+
 # 📊 Branch Dashboard – Insurance Analytics (Power BI & Excel)
 
 This project provides a complete performance overview for New, Renewal, and Cross-Sell insurance business across branches.  

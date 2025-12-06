@@ -56,6 +56,8 @@ This dashboard supports data-driven decision-making by offering:
 - Power BI  
 - Excel  
 - DAX Measures  
-- Data Modeling  
+- Data Modeling
+
+![image alt](image_url)https://github.com/pillidharani27-alt/Power-BI-Dashboard/blob/main/Screenshot%20(170).png?raw=true
 
 

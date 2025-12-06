@@ -59,5 +59,6 @@ This dashboard supports data-driven decision-making by offering:
 - Data Modeling
 
 ![image alt](image_url)https://github.com/pillidharani27-alt/Power-BI-Dashboard/blob/main/Screenshot%20(170).png?raw=true
+![image alt](image_url)https://github.com/pillidharani27-alt/Power-BI-Dashboard/blob/0ae97c8aea144c92c09c8af83755f14a89af8b75/Screenshot%20(171).png
 
 

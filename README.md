@@ -31,6 +31,13 @@ The dashboard helps the Corporate Team and Branch Heads track achievements, oppo
 ---
 
 ## ⭐ Key KPIs
+• New, Renewal & Cross-Sell – Target, Achieved, New  
+• No. of Invoices by Account Executive  
+• Yearly Meeting Count  
+• Top Open Opportunities  
+• Revenue Stage Funnel  
+• Conversion Ratio  
+
 
 ---
 

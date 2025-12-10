@@ -6,6 +6,7 @@ This project provides a complete performance overview for New, Renewal, and Cros
 The dashboard helps the Corporate Team and Branch Heads track achievements, opportunities, and employee activity in one place.
 
 ---
+![image alt](https://github.com/pillidharani27-alt/Insurance_Analytics-Dashboard/blob/main/Screenshots/Excel%20Image.png?raw=true)
 
 ## ⭐ What This Dashboard Shows
 
@@ -23,6 +24,7 @@ The dashboard helps the Corporate Team and Branch Heads track achievements, oppo
 - Conversion ratio of opportunities  
 
 ---
+![image alt]()
 
 ### **3. Opportunity Pipeline**
 - Open opportunities (Propose Solution & Qualify Opportunity stages)  
@@ -41,7 +43,7 @@ The dashboard helps the Corporate Team and Branch Heads track achievements, oppo
 
 
 ---
-
+![image alt]()
 ## ⭐ Business Value
 This dashboard supports data-driven decision-making by offering:
 

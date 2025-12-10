@@ -43,7 +43,7 @@ The dashboard helps the Corporate Team and Branch Heads track achievements, oppo
 
 
 ---
-![image alt]()
+![image alt](https://github.com/pillidharani27-alt/Insurance_Analytics-Dashboard/blob/main/Screenshots/Tableau%20image.png?raw=true)
 ## ⭐ Business Value
 This dashboard supports data-driven decision-making by offering:
 

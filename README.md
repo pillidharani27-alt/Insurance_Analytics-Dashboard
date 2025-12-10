@@ -24,7 +24,7 @@ The dashboard helps the Corporate Team and Branch Heads track achievements, oppo
 - Conversion ratio of opportunities  
 
 ---
-![image alt]()
+![image alt](https://github.com/pillidharani27-alt/Insurance_Analytics-Dashboard/blob/main/Screenshots/PowerBI%20image.png?raw=true)
 
 ### **3. Opportunity Pipeline**
 - Open opportunities (Propose Solution & Qualify Opportunity stages)  
